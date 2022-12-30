@@ -6,4 +6,5 @@ The project is to create a simple website in html that allows users to browse va
 
 Thanks for reading !
 
+signed by
 Walter-Mittie
